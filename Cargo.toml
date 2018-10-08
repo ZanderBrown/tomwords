@@ -1,0 +1,7 @@
+[package]
+name = "tomwords"
+version = "0.1.0"
+authors = ["Zander Brown <zbrown@gnome.org>"]
+
+[dependencies]
+regex = "1"
