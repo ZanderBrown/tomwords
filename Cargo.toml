@@ -2,6 +2,7 @@
 name = "tomwords"
 version = "0.1.0"
 authors = ["Zander Brown <zbrown@gnome.org>"]
+edition = "2021"
 
 [dependencies]
-regex = "1"
+regex = "> 1.5.5"
